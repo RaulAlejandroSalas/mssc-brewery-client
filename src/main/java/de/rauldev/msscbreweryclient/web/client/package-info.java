@@ -1,0 +1,1 @@
+package de.rauldev.msscbreweryclient.web.client;
